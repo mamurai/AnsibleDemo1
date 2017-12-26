@@ -1,6 +1,6 @@
 ---
 ### Control RHSM subscribe
-rht_rhsm_register : False
+rhsm_register : False
 prov_nginx : True
 prov_firewalld: True
 
