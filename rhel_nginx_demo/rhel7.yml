@@ -1,4 +1,4 @@
 ---
-- hosts: rhel7
+- hosts: rhel7,ec2
   roles:
     - rhel7 
